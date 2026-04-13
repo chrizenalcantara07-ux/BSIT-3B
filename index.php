@@ -1,7 +1,10 @@
 
 <?php 
-echo"hello";
-echo"hi";
+$i = "hi";
+
+
+for ($b = 0; $b <= 5 ; $b++ )
+{echo $i;};
 
 
 ?>
